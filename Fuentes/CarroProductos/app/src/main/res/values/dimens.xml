@@ -4,4 +4,8 @@
     <dimen name="tamanio_title_app">30sp</dimen>
     <dimen name="margin_left_title">30dp</dimen>
     <dimen name="nombreProd">30sp</dimen>
+    <dimen name="paddingGeneral">20dp</dimen>
+    <dimen name="marginLayout">20dp</dimen>
+    <dimen name="tamanioDescProd">15dp</dimen>
+    <dimen name="tamanioPrecio">20dp</dimen>
 </resources>

@@ -17,6 +17,7 @@
             android:layout_width="@dimen/ancho_imagen_toolbar"
             android:layout_height="@dimen/ancho_imagen_toolbar"></ImageView>
         <TextView
+            android:id="@+id/title_toolbar_txt"
             android:text="@string/titulo_app"
             android:textSize="@dimen/tamanio_title_app"
             android:textStyle="bold"
