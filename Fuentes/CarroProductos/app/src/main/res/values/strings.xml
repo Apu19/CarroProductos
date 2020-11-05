@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">CarroProductos</string>
     <string name="titulo_app">SHOPPING APP</string>
+    <string name="nombre_del_producto">Nombre del producto</string>
+    <string name="precio_prod_acp">Precio</string>
+    <string name="agregar_btn">Agregar</string>
 </resources>

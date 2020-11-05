@@ -8,4 +8,5 @@
     <dimen name="marginLayout">20dp</dimen>
     <dimen name="tamanioDescProd">15dp</dimen>
     <dimen name="tamanioPrecio">20dp</dimen>
+    <dimen name="margen_boton_float">20dp</dimen>
 </resources>

@@ -3,6 +3,16 @@ package com.example.carroproductos.dto;
 import java.io.Serializable;
 
 public class Producto implements Serializable {
+    private int id;
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
     private String nombre;
     private String foto;
     private String descripcion;

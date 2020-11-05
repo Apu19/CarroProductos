@@ -10,7 +10,7 @@ import android.widget.TextView;
 import com.example.carroproductos.dto.Producto;
 import com.squareup.picasso.Picasso;
 
-public class ProductoViewActivity extends AppCompatActivity {
+public class    ProductoViewActivity extends AppCompatActivity {
     TextView nombreProdTv;
     TextView descProdTv;
     ImageView imgProd;
